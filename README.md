@@ -8,15 +8,12 @@ The platform is scalable across an entire campus, ensuring that:
 - Teachers and CRs can manage only their assigned sections.
 - Data is isolated, secure, and contextually relevant for each user.
 
-![WhatsApp Image 2025-06-02 at 22 48 37_7995e4c7](https://github.com/user-attachments/assets/69573bfc-23cc-4529-8ad4-f3a120b600a6)
 
-![WhatsApp Image 2025-06-02 at 22 48 37_e067a034](https://github.com/user-attachments/assets/1c83bcd2-788b-4ee2-b888-789717f1fe5a)
-
-![WhatsApp Image 2025-06-02 at 22 48 37_0ecf82e4](https://github.com/user-attachments/assets/5ae4fd9d-1f93-4954-8a6a-5c93368a1ccd)
-
-![WhatsApp Image 2025-06-02 at 22 48 37_295e3c25](https://github.com/user-attachments/assets/89ae2a7b-0c13-4dac-93d4-2353fbc48182)
-
-![WhatsApp Image 2025-06-02 at 22 48 37_5eb79e89](https://github.com/user-attachments/assets/7a08f530-08a7-44a4-916a-f2c8750cbdb0)
+![WhatsApp Image 2025-05-30 at 18 13 16_ea847379](https://github.com/user-attachments/assets/94212bb2-d94e-499f-b38a-09c6b3822241)
+![WhatsApp Image 2025-05-30 at 18 07 31_7c9c27a0](https://github.com/user-attachments/assets/ca466828-a40a-46f2-96bc-52610092efff)
+![WhatsApp Image 2025-05-30 at 18 17 30_8afc0091](https://github.com/user-attachments/assets/e4d719ce-ecd9-426c-acce-05be94da1632)
+![WhatsApp Image 2025-05-30 at 18 18 50_597b143e](https://github.com/user-attachments/assets/8020fa1b-937b-4301-8a14-6379af60ab77)
+![WhatsApp Image 2025-05-30 at 18 50 19_37082e77](https://github.com/user-attachments/assets/ba68e086-ae4a-477c-89aa-2c45a6d03b18)
 
 ---
 
